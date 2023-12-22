@@ -23,7 +23,7 @@ void swap_ints(int *a, int *b)
  * @array: An array of integers representing a binary tree.
  * @size: The size of the array/tree.
  * @base: The index of the base .
- * @root: The root node 
+ * @root: The root node
  */
 void max_heapify(int *array, size_t size, size_t base, size_t root)
 {

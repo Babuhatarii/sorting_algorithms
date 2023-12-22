@@ -23,9 +23,9 @@ void swap_ints(int *a, int *b)
  * lomuto_partition - Order subset of array of integers according to
  *                    the lomuto partition scheme (last element as pivot).
  * @array:  array integers.
- * @size:  size 
- * @left: The starting index 
- * @right: The ending index 
+ * @size:  size
+ * @left: The starting index
+ * @right: The ending index
  *
  * Return: The final partition
  */
